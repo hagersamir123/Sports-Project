@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-sports/Pods-sports-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift-framework/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage-framework/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/YoutubePlayer-in-WKWebView-framework/YoutubePlayer_in_WKWebView.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
